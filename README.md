@@ -30,7 +30,7 @@ Please follow the below steps:
 <p align="justify">I do not own/claim any of the files/materials mentioned/used in this repo. 
 I found <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">this</a> beautiful package and 
 read their documentation and summarized into simpler steps. All credit goes to the 
-authors of <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">Bangtex</a> 
-and <a href="http://dasgupab.faculty.udmercy.edu/uni2bangtex/index.html">uni2bangtex</a> developers.</p>
+authors/developers of <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">Bangtex</a> 
+and <a href="http://dasgupab.faculty.udmercy.edu/uni2bangtex/index.html">uni2bangtex</a>.</p>
 
  
