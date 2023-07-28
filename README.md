@@ -18,7 +18,7 @@ Please follow the below steps:
 + Install Perl in your PC. Download file and installation procedure is available in this <a href="https://learn.perl.org/installing/windows.html">link</a>.
 + Download the <code>uni2bangtex.perl</code> script from this repository.
 + Open cmd (command prompt) and run the script as follows:
-<code>perl C:\Users\Shibli\Downloads\uni2bangtex.perl C:\Users\Shibli\Downloads\smpldoc.txt > C:\Users\Shibli\Downloads\smpldoc.tex</code>
+<p><code>perl C:\Users\Shibli\Downloads\uni2bangtex.perl C:\Users\Shibli\Downloads\smpldoc.txt > C:\Users\Shibli\Downloads\smpldoc.tex</code></p>
 + Considering <code>smpldoc.txt</code> file and <code>uni2bangtex.perl</code> script are on the same folder, in the above command <code>C:\Users\Shibli\Downloads</code> is the file path. Running this command will produce a (.tex) file (as in the command <code>smpldoc.tex</code> here). 
 + Open the (.tex) file using text editor (i.e. notepad or notepad++ etc). <code>smpldoc.tex</code> will contain <em><code>rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.</code></em>
 
