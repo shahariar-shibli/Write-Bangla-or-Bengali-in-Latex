@@ -8,8 +8,8 @@ called <em><a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangte
 to write rules based transliterattions manually to appear as Bengali or Bangla in pdflatex. However, there is a perl script that can
 automatically transliterate unicode Bengali or Bangla. Once, we get the transliterations, we just need to paste them in the pdflatex!!</p> 
 
-
-
+# Overview
+1. Write unicode Bengali or unicode Bangla in a (.txt) file. [Example: রবীন্দ্রনাথের একটি কবিতার শুরু নিচে দেওয়া হল। ]
 
 
 
