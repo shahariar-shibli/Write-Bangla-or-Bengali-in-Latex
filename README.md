@@ -6,7 +6,7 @@ Most of them uses pdflatex compiler. Polyglossia and fontspec package seems not 
 <p align="justify"> To write bengali/Bangla in pdflatex, there is a package for typesetting documents in Bangla or Bengali using the Tex/Latex systems,
 called <em><a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">[Bangtex]</a></em>. It is quite difficult 
 to write rules based transliterattions manually to appear as Bengali or Bangla in pdflatex. However, there is a perl script that can
-automatically transliterate unicode Bengali or Bangla to Bangtex supported transliteration. Once, we get the transliterations, we just need to paste them in the pdflatex!!</p> 
+automatically transliterate unicode Bengali or Bangla to Bangtex supported transliteration. Once, we get the transliterations, we just need to paste them in the latex file!!</p> 
 
 Please follow the below steps:
 
