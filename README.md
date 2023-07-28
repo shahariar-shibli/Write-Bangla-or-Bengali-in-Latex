@@ -20,7 +20,7 @@ Please follow the below steps:
 + Open cmd (command prompt) and run the script as follows:
 <p><code>perl C:\Users\Shibli\Downloads\uni2bangtex.perl C:\Users\Shibli\Downloads\smpldoc.txt > C:\Users\Shibli\Downloads\smpldoc.tex</code></p>
 + Considering <code>smpldoc.txt</code> file and <code>uni2bangtex.perl</code> script are on the same folder, in the above command <code>C:\Users\Shibli\Downloads</code> is the file path. Running this command will produce a (.tex) file (as in the command <code>smpldoc.tex</code> here). 
-+ Open the (.tex) file using text editor (i.e. notepad or notepad++ etc). <code>smpldoc.tex</code> will contain <em><code>rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.</code></em>
++ Open the (.tex) file using text editor (i.e. notepad or notepad++ etc). <code>smpldoc.tex</code> will contain <em><code>rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.</code></em> for the bangla example written in the text file.
 
 # Step 3: Copy and paste into Latex file 
 + Download the <code>Bangla_Commands.tex</code> file and upload into your latex project.
