@@ -9,8 +9,8 @@ to write rules based transliterattions manually to appear as Bengali or Bangla i
 automatically transliterate unicode Bengali or Bangla. Once, we get the transliterations, we just need to paste them in the pdflatex!!</p> 
 
 # Overview
-1. Write unicode Bengali or unicode Bangla in a (.txt) file. [Example: রবীন্দ্রনাথের একটি কবিতার শুরু নিচে দেওয়া হল। ]
-
++ Step 1. Write unicode Bengali or unicode Bangla in a (.txt) file. [Example: রবীন্দ্রনাথের একটি কবিতার শুরু নিচে দেওয়া হল। ]
++ Step 2. Convert the txt file containing unicode Bangla into a (.tex) file with the corresponding Bangtex supported transliteration. [Example: rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl. ] 
 
 
 # N.B:
