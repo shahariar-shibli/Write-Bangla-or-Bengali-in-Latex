@@ -14,7 +14,6 @@ automatically transliterate unicode Bengali or Bangla. Once, we get the translit
 
 
 # N.B:
---------
 I do not own/claim any of the matrials mentioned/used here.
 
  
