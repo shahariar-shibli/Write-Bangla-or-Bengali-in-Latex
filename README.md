@@ -27,7 +27,7 @@ Please follow the below steps:
 + Copy the bangtex transliteration obtained in step 2 and paste like <code>{\bng rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.}</code> where you want to use Bengali. <em>(bangtex trasliteration should inside a <code>{\bng }</code> block.</em>
  
 # N.B:
-<p align="justify">I do not own/claim any of the matrials mentioned/used here. 
+<p align="justify">I do not own/claim any of the files/materials mentioned/used here. 
 I found <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">this</a> beautiful package and 
 read their documentation and summarized into simpler steps. All credit goes to the 
 authors of <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">Bangtex</a> 
