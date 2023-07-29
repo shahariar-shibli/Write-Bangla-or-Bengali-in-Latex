@@ -1,5 +1,5 @@
 # Write-Bangla-or-Bengali-in-Latex
-<p align="justify">There is a simple <a href="https://tex.stackexchange.com/questions/99606/how-to-write-bengali-in-latex">solution</a> to write Bengali or Bangla in Latex using <em>xelatex</em> compiler, 
+<p align="justify">There is a simple <a href="https://github.com/Rajan-sust/Bangla-in-Latex-with-Overleaf">solution</a> to write Bengali or Bangla in Latex using <em>xelatex</em> compiler, 
 but many journal, conference or preprint (i.e. arXiv) sites do not support <em>xelatex</em> compiler. 
 Most of them uses <em>pdflatex</em> compiler. <em>Polyglossia</em> and <em>fontspec</em> packages (necessary to write Bangla in <em>xelatex</em> compiler) do not seem to work with <em>pdflatex</em>.</p>
 
