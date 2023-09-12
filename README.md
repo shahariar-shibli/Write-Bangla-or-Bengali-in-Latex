@@ -22,8 +22,8 @@ Please follow the below steps:
 + Open the (.tex) file using text editor (i.e. notepad or notepad++ etc). <code>smpldoc.tex</code> will contain <em><code>rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.</code></em> for the bangla example written in the text file.
 
 # Step 3: Copy and paste into Latex file 
-+ Download the <code>Bangla_Commands.tex</code> file from this repository and upload into your latex project.
-+ In the <code>main.tex</code> (the tex file that loads when you run your project, may have different name), add <code>Bangla_Commands.tex</code> file like <code>\input{Bangla_Commands}</code> anywhere before <code>\begin{document}</code>
++ Download the <code>bangla_commands.tex</code> file from this repository and upload into your latex project.
++ In the <code>main.tex</code> (the tex file that loads when you run your project, may have different name), add <code>bangla_commands.tex</code> file like <code>\input{bangla_commands}</code> anywhere before <code>\begin{document}</code>
 + Copy the bangtex transliteration obtained in step 2 and paste like <code>{\bng rbiin/dRnaethr EkiT kibtar shuru inec ed{O}ya Hl.}</code> where you want to use Bengali. <em>(bangtex trasliteration should inside a <code>{\bng }</code> block.)</em>
 
 # Fun fact
